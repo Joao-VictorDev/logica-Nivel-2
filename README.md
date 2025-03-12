@@ -39,6 +39,3 @@ Este repositório contém uma série de exercícios práticos em Python, que cob
 
 ## 📝 Como rodar os exercícios
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Joao-VictorDev/logica-nivel-2.git
